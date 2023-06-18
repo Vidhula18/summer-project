@@ -5,8 +5,10 @@
 
 cmd:
 
-git add --all
+
 git config --global user.email "vidhulaganesh@gmail.com"
+git add --all
+git push
 git commit -m "first commit"
 
 resources:
