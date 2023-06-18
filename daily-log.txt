@@ -1,0 +1,9 @@
+-----------------------------------------------------
+- download git
+- git clone 'https link' => command to clone repo
+- authenticate and sync with github when prompted
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
