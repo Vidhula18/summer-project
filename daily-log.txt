@@ -3,6 +3,18 @@
 - git clone 'https link' => command to clone repo
 - authenticate and sync with github when prompted
 
+cmd:
+
+git add --all
+git config --global user.email "vidhulaganesh@gmail.com"
+git commit -m "first commit"
+
+resources:
+
+https://gitforwindows.org/
+https://www.windowscentral.com/how-get-started-using-github
+https://support.atlassian.com/bitbucket-cloud/docs/add-edit-and-commit-to-source-files/
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 -----------------------------------------------------
 
 
