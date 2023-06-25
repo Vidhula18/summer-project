@@ -1,3 +1,7 @@
+FUCK
+
+
+
 -----------------------------------------------------
 - download git
 - git clone 'https link' => command to clone repo
